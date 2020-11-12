@@ -1,0 +1,155 @@
+São Paulo,SP
+Rio de Janeiro,RJ
+Brasília,DF
+Salvador,BA
+Fortaleza,CE
+Belo Horizonte,MG
+Manaus,AM
+Curitiba,PR
+Recife,PE
+Goiânia,GO
+Belém,PA
+Porto Alegre,RS
+Guarulhos,SP
+Campinas,SP
+São Luís,MA
+São Gonçalo,RJ
+Maceió,AL
+Duque de Caxias,RJ
+Campo Grande,MS
+Natal,RN
+Teresina,PI
+São Bernardo do Campo,SP
+Nova Iguaçu,RJ
+João Pessoa,PB
+São José dos Campos,SP
+Santo André,SP
+Ribeirão Preto,SP
+Jaboatão dos Guararapes,PE
+Osasco,SP
+Uberlândia,MG
+Sorocaba,SP
+Contagem,MG
+Aracaju,SE
+Feira de Santana,BA
+Cuiabá,MT
+Joinville,SC
+Aparecida de Goiânia,GO
+Londrina,PR
+Juiz de Fora,MG
+Porto Velho,RO
+Ananindeua,PA
+Serra,ES
+Caxias do Sul,RS
+Niterói,RJ
+Belford Roxo,RJ
+Macapá,AP
+Campos dos Goytacazes,RJ
+Florianópolis,SC
+Vila Velha,ES
+Mauá,SP
+São João de Meriti,RJ
+São José do Rio Preto,SP
+Mogi das Cruzes,SP
+Betim,MG
+Santos,SP
+Maringá,PR
+Diadema,SP
+Jundiaí,SP
+Boa Vista,RR
+Montes Claros,MG
+Rio Branco,AC
+Campina Grande,PB
+Piracicaba,SP
+Carapicuíba,SP
+Olinda,PE
+Anápolis,GO
+Cariacica,ES
+Bauru,SP
+Itaquaquecetuba,SP
+São Vicente,SP
+Vitória,ES
+Caruaru,PE
+Caucaia,CE
+Blumenau,SC
+Franca,SP
+Ponta Grossa,PR
+Petrolina,PE
+Canoas,RS
+Pelotas,RS
+Vitória da Conquista,BA
+Ribeirão das Neves,MG
+Uberaba,MG
+Paulista,PE
+Cascavel,PR
+Praia Grande,SP
+São José dos Pinhais,PR
+Guarujá,SP
+Taubaté,SP
+Limeira,SP
+Petrópolis,RJ
+Santarém,PA
+Palmas,TO
+Camaçari,BA
+Mossoró,RN
+Suzano,SP
+Taboão da Serra,SP
+Várzea Grande,MT
+Sumaré,SP
+Santa Maria,RS
+Gravataí,RS
+Marabá,PA
+Governador Valadares,MG
+Barueri,SP
+Embu das Artes,SP
+Juazeiro do Norte,CE
+Volta Redonda,RJ
+Parnamirim,RN
+Ipatinga,MG
+Macaé,RJ
+Imperatriz,MA
+Foz do Iguaçu,PR
+Viamão,RS
+Indaiatuba,SP
+São Carlos,SP
+Cotia,SP
+São José,SC
+Novo Hamburgo,RS
+Colombo,PR
+Magé,RJ
+Itaboraí,RJ
+Americana,SP
+Sete Lagoas,MG
+Rio Verde,GO
+Itapevi,SP
+Marília,SP
+Divinópolis,MG
+São Leopoldo,RS
+Araraquara,SP
+Rondonópolis,MT
+Jacareí,SP
+Hortolândia,SP
+Arapiraca,AL
+Cabo Frio,RJ
+Presidente Prudente,SP
+Maracanaú,CE
+Dourados,MS
+Chapecó,SC
+Itajaí,SC
+Santa Luzia,MG
+Juazeiro,BA
+Águas Lindas de Goiás,GO
+Criciúma,SC
+Itabuna,BA
+Parauapebas,PA
+Rio Grande,RS
+Luziânia,GO
+Alvorada,RS
+Sobral,CE
+Cachoeiro de Itapemirim,ES
+Cabo de Santo Agostinho,PE
+Rio Claro,SP
+Angra dos Reis,RJ
+Passo Fundo,RS
+Castanhal,PA
+Lauro de Freitas,BA
